@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1093034437034",
+    "project_id": "hire-a-chef-5e1d4",
+    "storage_bucket": "hire-a-chef-5e1d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093034437034:android:8ab36424a477cdc8c0e3d3",
+        "android_client_info": {
+          "package_name": "com.example.hire_a_chef"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093034437034-ned9hcb4b18e61f9uv1k4j34uht8cciq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbTtRXooAKhnzuIrGOqtgt1mTE8LH2rK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093034437034-ned9hcb4b18e61f9uv1k4j34uht8cciq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1093034437034-jp04momjb4313lfkdj9tq00v9an9757u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hireAChef"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
