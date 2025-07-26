@@ -1,6 +1,6 @@
 # hire_a_chef
 
-A new Flutter project.
+flutter project made for a client ( UI PART ) 
 
 ## Getting Started
 
